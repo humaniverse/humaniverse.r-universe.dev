@@ -1,0 +1,34 @@
+[
+    {
+        "package": "geographr",
+        "url": "https://github.com/humaniverse/geographr"
+    },
+    {
+        "package": "demographr",
+        "url": "https://github.com/humaniverse/demographr"
+    },
+    {
+        "package": "healthyr",
+        "url": "https://github.com/humaniverse/healthyr"
+    },
+    {
+        "package": "wildfires",
+        "url": "https://github.com/humaniverse/wildfires"
+    },
+    {
+        "package": "DEPAHRI",
+        "url": "https://github.com/humaniverse/DEPAHRI"
+    },
+    {
+        "package": "loneliness",
+        "url": "https://github.com/humaniverse/loneliness"
+    },
+    {
+        "package": "asylum",
+        "url": "https://github.com/humaniverse/asylum"
+    },
+    {
+        "package": "IMD",
+        "url": "https://github.com/humaniverse/IMD"
+    }
+]
