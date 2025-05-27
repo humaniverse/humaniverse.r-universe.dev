@@ -31,8 +31,20 @@
         "package": "IMD",
         "url": "https://github.com/humaniverse/IMD"
     },
-        {
+    {
         "package": "hiedata",
         "url": "https://github.com/humaniverse/hiedata"
+    },
+    {
+        "package": "health-index-wales",
+        "url": "https://github.com/humaniverse/health-index-wales"
+    },
+    {
+        "package": "healthindexscotland",
+        "url": "https://github.com/humaniverse/healthindexscotland"
+    },
+    {
+        "package": "healthindexni",
+        "url": "https://github.com/humaniverse/healthindexni"
     }
 ]
